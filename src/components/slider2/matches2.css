@@ -1,0 +1,11 @@
+#box-big{
+    position: absolute;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+#box-big:hover{
+    opacity: 1;
+}
+.slick-next {
+    right: 25px !important;
+}
